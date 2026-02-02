@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
