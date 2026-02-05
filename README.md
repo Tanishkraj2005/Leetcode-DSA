@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3379-transformed-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
+| [3379-transformed-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
