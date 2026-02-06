@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Math
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
