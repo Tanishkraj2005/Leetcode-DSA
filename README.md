@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
