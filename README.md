@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
+| [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
