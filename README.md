@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/3099-harshad-number) |
 ## Bit Manipulation
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
