@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0258-add-digits) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
