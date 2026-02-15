@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
 | [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
