@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
