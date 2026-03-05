@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
