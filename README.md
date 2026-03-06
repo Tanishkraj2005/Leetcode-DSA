@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0162-find-peak-element) |
 ## Stack
