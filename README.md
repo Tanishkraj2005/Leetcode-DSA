@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
