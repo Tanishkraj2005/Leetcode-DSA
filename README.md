@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
@@ -76,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0610-triangle-judgement](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/MySQL/0610-triangle-judgement/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
