@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0596-classes-with-at-least-5-students](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/MySQL/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/MySQL/0610-triangle-judgement/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
