@@ -24,7 +24,7 @@ public:
         }
 
         int vis[n];
-        memset(vis, 0, sizeof(vis));  HERE
+        memset(vis, 0, sizeof(vis)); 
 
         int c = 0;
         for(int i=0;i<n;i++){
