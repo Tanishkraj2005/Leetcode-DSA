@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## Tree
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 ## Sliding Window
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
+| [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
