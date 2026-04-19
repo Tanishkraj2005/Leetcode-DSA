@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0258-add-digits) |
+| [0282-expression-add-operators](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0282-expression-add-operators/) | Hard |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0282-expression-add-operators](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0282-expression-add-operators/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0282-expression-add-operators](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0282-expression-add-operators/) | Hard |
 <!---LeetCode Topics End-->
