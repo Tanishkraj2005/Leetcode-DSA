@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
+| [0587-erect-the-fence](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0587-erect-the-fence/) | Hard |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0994-rotting-oranges/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0587-erect-the-fence](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0587-erect-the-fence/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tanishkraj2005/dsa-questions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0587-erect-the-fence/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
