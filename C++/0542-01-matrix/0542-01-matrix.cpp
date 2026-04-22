@@ -9,12 +9,14 @@ public:
 
         queue<pair<pair<int,int>, int>> q;
 
-        // ✅ push all 0s (not 1s)
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 0) {
                     q.push({{i, j}, 0});
                     vis[i][j] = 1;
+                }
+                else{
+                    vis[i][j] = 0;
                 }
             }
         }
