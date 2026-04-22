@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 | [0587-erect-the-fence](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0587-erect-the-fence/) | Hard |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0994-rotting-oranges/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
