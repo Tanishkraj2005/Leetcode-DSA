@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
