@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1020-number-of-enclaves/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1020-number-of-enclaves/) | Medium |
 ## Monotonic Stack
@@ -256,12 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1020-number-of-enclaves/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0785-is-graph-bipartite/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
