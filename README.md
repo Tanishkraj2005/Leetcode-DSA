@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0149-max-points-on-a-line/) | Hard |
 | [0223-rectangle-area](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0587-erect-the-fence/) | Hard |
 ## Recursion
