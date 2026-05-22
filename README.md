@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0073-set-matrix-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
@@ -218,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 ## Database
