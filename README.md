@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0219-contains-duplicate-ii) |
+| [0321-create-maximum-number](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0321-create-maximum-number/) | Hard |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0321-create-maximum-number/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
+| [0321-create-maximum-number](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## Tree
 | Problem Name | Difficulty |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
+| [0321-create-maximum-number](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0321-create-maximum-number/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
