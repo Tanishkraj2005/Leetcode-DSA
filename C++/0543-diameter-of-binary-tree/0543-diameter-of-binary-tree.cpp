@@ -9,7 +9,6 @@ public:
         return max(left,right)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        maxi = 0;
         dfs(root);
         return maxi;
     }
