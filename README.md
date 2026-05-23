@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0542-01-matrix/) | Medium |
 ## Database
 | Problem Name | Difficulty |
