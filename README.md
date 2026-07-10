@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0069-sqrtx) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 | [0224-basic-calculator](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0224-basic-calculator/) | Hard |
 | [0326-power-of-three](https://github.com/Tanishkraj2005/dsa-questions/tree/master/0326-power-of-three) |
@@ -307,5 +309,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanishkraj2005/Leetcode-DSA/tree/main/C++/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
